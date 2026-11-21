@@ -1,0 +1,3 @@
+usage_type,n,promoters_pct,passives_pct,detractors_pct,nps,ci_low,ci_high,mean_csat,low_sample
+Personal commuting,1638,25.8,38.8,35.3,-9.5,-13.3,-5.8,3.84,False
+Commercial (taxi / delivery),1474,19.3,38.2,42.5,-23.1,-27.0,-19.3,3.71,False

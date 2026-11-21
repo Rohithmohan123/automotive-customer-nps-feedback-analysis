@@ -1,0 +1,5 @@
+country,n,promoters_pct,passives_pct,detractors_pct,nps,ci_low,ci_high,mean_csat,low_sample
+Nigeria,926,23.4,40.1,36.5,-13.1,-18.0,-8.2,3.82,False
+Egypt,747,22.0,39.4,38.7,-16.7,-22.2,-11.3,3.74,False
+Philippines,795,30.4,40.8,28.8,1.6,-3.7,7.0,3.96,False
+DR Congo,644,13.2,32.6,54.2,-41.0,-46.5,-35.5,3.52,False

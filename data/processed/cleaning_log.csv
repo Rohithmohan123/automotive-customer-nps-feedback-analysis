@@ -1,0 +1,20 @@
+rule,rows_affected,action
+Rows in raw export,3238,-
+Exact duplicate rows,38,dropped
+Missing customer_id,6,dropped (cannot de-duplicate or trace)
+Repeated customer_id,0,"dropped, first response kept"
+Country spelling variants standardised,166,recoded
+Unrecognised country,0,dropped
+Brand spelling variants standardised,102,recoded
+Unrecognised brand,0,dropped
+NPS score missing,38,dropped (primary metric)
+"NPS score not a number (e.g. 'ten', 'n/a')",19,dropped (primary metric)
+NPS score outside 0-10,25,dropped (primary metric)
+Satisfaction score outside 1-5,32,"set to missing, row kept"
+Satisfaction score missing,46,"left missing, row kept"
+Ownership duration unparseable or blank,25,"set to missing, band 'Unknown'"
+Ownership duration outside 0-120 months,19,"set to missing, band 'Unknown'"
+Survey date in dd/mm/yyyy format,62,converted to ISO date
+Survey date outside survey period,12,"set to missing, row kept"
+Blank or placeholder comment,94,"set to empty, row kept"
+Rows in clean dataset,3112,-

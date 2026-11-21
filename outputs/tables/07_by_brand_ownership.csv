@@ -1,0 +1,16 @@
+vehicle_brand,ownership_band,n,promoters_pct,passives_pct,detractors_pct,nps,ci_low,ci_high,mean_csat,low_sample
+Bajaj,12-24 months,364,19.8,36.5,43.7,-23.9,-31.7,-16.1,3.67,False
+Haojue,0-6 months,146,32.2,39.7,28.1,4.1,-8.5,16.7,3.93,False
+TVS,24-36 months,174,19.0,40.8,40.2,-21.3,-32.3,-10.3,3.77,False
+TVS,36+ months,119,28.6,42.9,28.6,0.0,-13.6,13.6,3.92,False
+Bajaj,24-36 months,162,18.5,39.5,42.0,-23.5,-34.9,-12.0,3.63,False
+TVS,12-24 months,349,17.2,41.0,41.8,-24.6,-32.3,-17.0,3.68,False
+Bajaj,0-6 months,149,35.6,37.6,26.8,8.7,-3.9,21.3,4.1,False
+Haojue,36+ months,126,21.4,37.3,41.3,-19.8,-33.2,-6.5,3.73,False
+Haojue,24-36 months,156,24.4,34.0,41.7,-17.3,-29.8,-4.8,3.77,False
+Bajaj,6-12 months,241,27.0,36.9,36.1,-9.1,-19.1,0.8,3.82,False
+Haojue,6-12 months,234,22.6,41.5,35.9,-13.2,-22.9,-3.6,3.78,False
+TVS,6-12 months,215,25.1,33.0,41.9,-16.7,-27.5,-6.0,3.83,False
+Haojue,12-24 months,350,15.4,41.1,43.4,-28.0,-35.5,-20.5,3.66,False
+TVS,0-6 months,154,35.7,37.7,26.6,9.1,-3.3,21.5,4.04,False
+Bajaj,36+ months,129,21.7,37.2,41.1,-19.4,-32.6,-6.1,3.76,False

@@ -1,0 +1,6 @@
+assumption built into the generator,what the analysis found,recovered
+Market ranking (best to worst): Philippines > Nigeria > Egypt > DR Congo,Philippines > Nigeria > Egypt > DR Congo,True
+Lowest advocacy in the 12-24 months ownership band,Lowest NPS in the 12-24 months band,True
+Commercial riders less likely to recommend than personal users,Gap +13.6 NPS points (p < 0.001),True
+Small brand effects (max spread 0.35 points on the 0-10 scale),0 of 10 brand comparisons significant after FDR correction,n/a (expected to be hard to detect)
+About 8% of responses filed under the wrong category,Recorded category matches comment text for 85.1% of comments,True
